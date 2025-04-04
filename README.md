@@ -1,6 +1,6 @@
 # Inventory Classification Using ABC-XYZ Analysis
 
-![E-commerce](images/e-commerce.png)
+![E-commerce](images/e-commerce.jpg)
 ### Overview
 This project applies data science to inventory management, helping businesses optimize stock levels and improve profitability.
 This project implements a data-driven inventory classification system using the ABC-XYZ analysis method. ABC categorizes stock based on revenue contribution, while XYZ classifies items by demand predictability. By combining these methods, businesses can make informed inventory management decisions to optimize stock levels, reduce holding costs, and improve profitability.
