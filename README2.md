@@ -97,7 +97,7 @@ pip install -r requirements.txt
 ### Run Analysis
 Open the Jupyter Notebook and run all cells:
 ```bash
-jupyter ABC XYZ Inventory Classification Analysis.ipynb
+jupyter notebook abc_xyz_analysis.ipynb
 ```
 
 ---
